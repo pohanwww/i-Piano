@@ -2,6 +2,8 @@
 
 Piano practicing system with automatic sheet music recognition and performance scoring mechanism
 
+操作影片：https://youtu.be/r4qJmB0oJ4U
+
 樂譜辨識系統：
 - iPiano_tg_bot
     - 程式執行後，以手機聊天室與聊天機器人進行操作
